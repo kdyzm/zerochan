@@ -1,0 +1,1 @@
+使用Jsoup对zerochan.net网站进行模拟搜索Rukia信息的图片，对结果进行解析并保存到result.txt文件，错误信息保存到error.text文件中。
